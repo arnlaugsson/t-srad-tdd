@@ -15,4 +15,4 @@ This repo is an example walkthrough of the first individual Hand-in assignment i
 
 ## Running tests
 
-Simply run the following command: `pytest` with the virtual environment activated. Note that currently there are no tests in the repository.
+Simply run the following command: `pytest` with the virtual environment activated.
